@@ -13,9 +13,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a> •
-  <a href="mailto:yourmail@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/bhargavg24/" target="_blank">LinkedIn</a> •
+  <a href="mailto:bhargavgohel10@gmail.com">Email</a>
 </p>
 ---
 
