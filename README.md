@@ -6,8 +6,7 @@
 ### 🌟 About Me
 - 🔭 Currently freelancing and building scalable web applications  
 - 🌱 Exploring advanced **React, Vite, and PrimeReact** integrations  
-- 💡 Passionate about solving complex technical problems and creating efficient workflows  
-- 📍 Based in Ahmedabad, India  
+- 💡 Passionate about solving complex technical problems and creating efficient workflows
 - 🎯 Actively seeking **senior-level developer roles**  
 
 ---
