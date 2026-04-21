@@ -18,16 +18,6 @@
   <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a> •
   <a href="mailto:yourmail@example.com">Email</a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavgohel&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavgohel&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavgohel&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
 ---
 
 ### 🏆 Highlights
